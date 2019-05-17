@@ -4,10 +4,12 @@ Data Structure and Algorithm Reviewer in Kotlin examples
 
 ## Algorithms
 > a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+> 
 
-|  *Sorting*|  
-|--------------|--|
-|              |  |
+
+
+|  ** _ **|  
+|--------------|
 
 
 #### Merge Sort
@@ -76,5 +78,5 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Formula
 > **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ3ODYxNTUsMzQ5NDg4NTU1XX0=
+eyJoaXN0b3J5IjpbLTEyNTQ0Njk3OCwzNDk0ODg1NTVdfQ==
 -->
