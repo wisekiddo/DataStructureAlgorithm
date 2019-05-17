@@ -73,8 +73,11 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Formula
 > **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 
-#### **Fibonacci Sequence**
-commonly denoted Fn form a sequence
+- #### **Fibonacci Sequence** 
+> - commonly denoted Fn form a sequence
+
+    enter code here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ0OTIwMywzNDk0ODg1NTVdfQ==
+eyJoaXN0b3J5IjpbLTU1ODE4NDAxMiwzNDk0ODg1NTVdfQ==
 -->
