@@ -87,7 +87,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
 	}
 
 ## Bitmask Operations
-> **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
+> Bit masking allows you to use operations that work on bit-level.
 
 >  - #### **Fibonacci Sequence** - *commonly denoted Fn form a sequence*
 ##### Formula: fibonacci in Kotlin
@@ -104,6 +104,6 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MDQxMTQsMTc0NTAwOTA2Niw3NTQ5Mj
-Q1NjQsMzQ5NDg4NTU1XX0=
+eyJoaXN0b3J5IjpbLTExNzQ4MzczNzMsNjc1MDQxMTQsMTc0NT
+AwOTA2Niw3NTQ5MjQ1NjQsMzQ5NDg4NTU1XX0=
 -->
