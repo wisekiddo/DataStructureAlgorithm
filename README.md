@@ -86,7 +86,24 @@ This is my favourite sorting algorithm other than it is predictable and used for
 	    return if(n==1) n else factorial(n - 1) * n  
 	}
 
+## Bitmask Operations
+> **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
+
+>  - #### **Fibonacci Sequence** - *commonly denoted Fn form a sequence*
+##### Formula: fibonacci in Kotlin
+   
+    private fun fibonacci(n: Int): Int {  
+	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
+    }
+>  - #### **Factorial** - *In mathematics, the **factorial** of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n.*
+##### Formula: factorial in Kotlin
+   
+    private fun factorial(n: Int): Int {  
+	    return if(n==1) n else factorial(n - 1) * n  
+	}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTAwOTA2Niw3NTQ5MjQ1NjQsMzQ5ND
-g4NTU1XX0=
+eyJoaXN0b3J5IjpbNjc1MDQxMTQsMTc0NTAwOTA2Niw3NTQ5Mj
+Q1NjQsMzQ5NDg4NTU1XX0=
 -->
