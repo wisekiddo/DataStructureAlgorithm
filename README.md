@@ -68,6 +68,9 @@ This is my favourite sorting algorithm other than it is predictable and used for
 > is a way to store and organise data so that it can be used efficiently.
 
 
+
+## Formula
+> **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjMxNTM5NCwzNDk0ODg1NTVdfQ==
+eyJoaXN0b3J5IjpbNzIwNjEzMTY4LDM0OTQ4ODU1NV19
 -->
