@@ -87,7 +87,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
 	}
 
 ## Bitmask Operations
-> Bit masking allows you to use operations that work on bit-level.
+> Bit masking allows you to use operations that work on bit-level. Which often leads to faster runtime
 
 ##### Formula: swap values with only two variables in Kotlin
    
@@ -104,11 +104,16 @@ This is my favourite sorting algorithm other than it is predictable and used for
     var j = 20
     var n = 2
     
-    print(j shl n) // 8
+    print(j shl n) // 80
 
-
+##### Formula: Divided by 2n in Kotlin
+   
+    var j = 20
+    var n = 2
+    
+    print(j shr n) // 80
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg5MDkzLC0xNzgxMjQ5MTgsNjc1MD
-QxMTQsMTc0NTAwOTA2Niw3NTQ5MjQ1NjQsMzQ5NDg4NTU1XX0=
-
+eyJoaXN0b3J5IjpbLTE2ODY3NjkyMjUsLTE3ODEyNDkxOCw2Nz
+UwNDExNCwxNzQ1MDA5MDY2LDc1NDkyNDU2NCwzNDk0ODg1NTVd
+fQ==
 -->
