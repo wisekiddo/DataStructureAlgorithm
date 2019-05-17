@@ -73,8 +73,8 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Formula
 > **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 
-#### Merge Sort
-Mergesort is another divide and conquer algorithm. It continuously divides an array into two halves, recurses on both the left subarray and right subarray stops until it left 1 element, and finally merges the two sorted halves.
+#### **Fibonacci Sequence**
+commonly denoted Fn form a sequence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTIxOTQzNSwzNDk0ODg1NTVdfQ==
+eyJoaXN0b3J5IjpbMTcyMTQ0OTIwMywzNDk0ODg1NTVdfQ==
 -->
