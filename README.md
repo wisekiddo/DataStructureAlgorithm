@@ -99,7 +99,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
     y = y xor x  
     x = x xor y
 
-##### Formula: factorial in Kotlin
+##### Formula: Multiple by 2n in Kotlin
    
     private fun factorial(n: Int): Int {  
 	    return if(n==1) n else factorial(n - 1) * n  
@@ -107,6 +107,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODEyNDkxOCw2NzUwNDExNCwxNzQ1MD
-A5MDY2LDc1NDkyNDU2NCwzNDk0ODg1NTVdfQ==
+eyJoaXN0b3J5IjpbLTY2NDQzMjgzNiwtMTc4MTI0OTE4LDY3NT
+A0MTE0LDE3NDUwMDkwNjYsNzU0OTI0NTY0LDM0OTQ4ODU1NV19
+
 -->
