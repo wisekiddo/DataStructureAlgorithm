@@ -5,7 +5,10 @@ Data Structure and Algorithm Reviewer in Kotlin examples
 ## Algorithms
 > a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
-###  ***Sorting***
+|  *Sorting*|  
+|--------------|--|
+|              |  |
+
 
 #### Merge Sort
 Mergesort is another divide and conquer algorithm. It continuously divides an array into two halves, recurses on both the left subarray and right subarray stops until it left 1 element, and finally merges the two sorted halves.
@@ -73,5 +76,5 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Formula
 > **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUwNzE5NzQsMzQ5NDg4NTU1XX0=
+eyJoaXN0b3J5IjpbLTE1ODQ3ODYxNTUsMzQ5NDg4NTU1XX0=
 -->
