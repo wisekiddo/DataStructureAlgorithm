@@ -75,12 +75,12 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 - #### **Fibonacci Sequence** 
 > - commonly denoted Fn form a sequence
-
+##### Formula: fibonacci in Kotlin
    
     private fun fibonacci(n: Int): Int {  
-     return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
+	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTU2Nzk5OSwzNDk0ODg1NTVdfQ==
+eyJoaXN0b3J5IjpbNzU0OTI0NTY0LDM0OTQ4ODU1NV19
 -->
