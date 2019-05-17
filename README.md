@@ -89,13 +89,16 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Bitmask Operations
 > Bit masking allows you to use operations that work on bit-level.
 
->  - #### **Fibonacci Sequence** - *commonly denoted Fn form a sequence*
-##### Formula: fibonacci in Kotlin
+##### Formula: swap values with only two variables in Kotlin
    
-    private fun fibonacci(n: Int): Int {  
-	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
-    }
->  - #### **Factorial** - *In mathematics, the **factorial** of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n.*
+
+    var x=1  
+    var y=10  
+      
+    x = x xor y  
+    y = y xor x  
+    x = x xor y
+
 ##### Formula: factorial in Kotlin
    
     private fun factorial(n: Int): Int {  
@@ -104,6 +107,6 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ4MzczNzMsNjc1MDQxMTQsMTc0NT
-AwOTA2Niw3NTQ5MjQ1NjQsMzQ5NDg4NTU1XX0=
+eyJoaXN0b3J5IjpbLTE3ODEyNDkxOCw2NzUwNDExNCwxNzQ1MD
+A5MDY2LDc1NDkyNDU2NCwzNDk0ODg1NTVdfQ==
 -->
