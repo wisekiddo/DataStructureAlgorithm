@@ -64,8 +64,10 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 
 
-## Data Structure
+## Data Structures
 > is a way to store and organise data so that it can be used efficiently.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NDg4NTU1XX0=
+eyJoaXN0b3J5IjpbMTAzMjMxNTM5NCwzNDk0ODg1NTVdfQ==
 -->
