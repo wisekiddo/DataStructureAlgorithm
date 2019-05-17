@@ -82,11 +82,11 @@ This is my favourite sorting algorithm other than it is predictable and used for
 >  #### **Factorial** - *In mathematics, the **factorial** of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n.*
 ##### Formula: factorial in Kotlin
    
-    private fun fibonacci(n: Int): Int {  
-	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
-    }
+    private fun factorial(n: Int): Int {  
+	    return if(n==1) n else factorial(n - 1) * n  
+	}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjg3MzMzNCw3NTQ5MjQ1NjQsMzQ5ND
-g4NTU1XX0=
+eyJoaXN0b3J5IjpbLTE0MjM4MzE2NzAsNzU0OTI0NTY0LDM0OT
+Q4ODU1NV19
 -->
