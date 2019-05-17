@@ -101,13 +101,14 @@ This is my favourite sorting algorithm other than it is predictable and used for
 
 ##### Formula: Multiple by 2n in Kotlin
    
-    private fun factorial(n: Int): Int {  
-	    return if(n==1) n else factorial(n - 1) * n  
-	}
+    var j = 20
+    var n = 2
+    
+    print(j shl n) // 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDQzMjgzNiwtMTc4MTI0OTE4LDY3NT
-A0MTE0LDE3NDUwMDkwNjYsNzU0OTI0NTY0LDM0OTQ4ODU1NV19
+eyJoaXN0b3J5IjpbLTk5Nzg5MDkzLC0xNzgxMjQ5MTgsNjc1MD
+QxMTQsMTc0NTAwOTA2Niw3NTQ5MjQ1NjQsMzQ5NDg4NTU1XX0=
 
 -->
