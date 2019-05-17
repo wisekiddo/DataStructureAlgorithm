@@ -73,14 +73,20 @@ This is my favourite sorting algorithm other than it is predictable and used for
 ## Formula
 > **mathematical** symbols or rules that express a relationship or that are used to solve a problem, or a way to make something
 
->  #### **Fibonacci Sequence** - * commonly denoted Fn form a sequence*
+>  #### **Fibonacci Sequence** - *commonly denoted Fn form a sequence*
 ##### Formula: fibonacci in Kotlin
+   
+    private fun fibonacci(n: Int): Int {  
+	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
+    }
+>  #### **Factorial** - *In mathematics, the **factorial** of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n.*
+##### Formula: factorial in Kotlin
    
     private fun fibonacci(n: Int): Int {  
 	    return if (n <= 1) n else fibonacci(n - 1) + fibonacci(n - 2)  
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDgzOTE4MSw3NTQ5MjQ1NjQsMzQ5ND
+eyJoaXN0b3J5IjpbLTQxMjg3MzMzNCw3NTQ5MjQ1NjQsMzQ5ND
 g4NTU1XX0=
 -->
