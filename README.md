@@ -86,6 +86,9 @@ This is my favourite sorting algorithm other than it is predictable and used for
 	    return if(n==1) n else factorial(n - 1) * n  
 	}
 
+>  - #### **Permutation** - *each of several possible ways in which a set or number of things can be ordered or arranged.*
+##### Formula: factorial in Kotlin
+
 ## Bitmask Operations
 > Bit masking allows you to use operations that work on bit-level. Which often leads to faster runtime and limits memory usage
 
@@ -113,7 +116,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
     
     print(j shr n) // 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTc3NDkyOSwtMTc4MTI0OTE4LDY3NT
-A0MTE0LDE3NDUwMDkwNjYsNzU0OTI0NTY0LDM0OTQ4ODU1NV19
-
+eyJoaXN0b3J5IjpbLTg4NDUwOTE5MCwxMzQxNzc0OTI5LC0xNz
+gxMjQ5MTgsNjc1MDQxMTQsMTc0NTAwOTA2Niw3NTQ5MjQ1NjQs
+MzQ5NDg4NTU1XX0=
 -->
