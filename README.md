@@ -89,6 +89,15 @@ This is my favourite sorting algorithm other than it is predictable and used for
 >  - #### **Permutation** - *to get each of several possible ways in which a set or number of things can be ordered or arranged.*
 ##### Formula: permutation in Kotlin
 
+
+    val input = listOf('a', 'b', 'c', 'd')  
+    val permutation = permutation(input)  
+    println("There are ${permutation.size} permutations of $input, namely:\n")  
+      
+    for (perm in permutation) 
+	    println(perm)  
+    
+    
     private fun <T> permutation(input: List<T>): List<List<T>> {  
 	    
 	    if (input.size == 1) 
@@ -101,16 +110,13 @@ This is my favourite sorting algorithm other than it is predictable and used for
 			    val holdNew = perm.toMutableList()  
 			    holdNew.add(i, toInsert)  
 			    perms.add(holdNew)  
-     } 
-     }  return perms  
-    }  
+		    } 
+	    }  
+	    
+	    return perms  
+	}  
       
-    fun mains(args: Array<String>) {  
-      val input = listOf('a', 'b', 'c', 'd')  
-      val permutation = permutation(input)  
-      println("There are ${permutation.size} permutations of $input, namely:\n")  
-      for (perm in permutation) println(perm)  
-    }
+    
 
 ## Bitmask Operations
 > Bit masking allows you to use operations that work on bit-level. Which often leads to faster runtime and limits memory usage
@@ -140,7 +146,7 @@ This is my favourite sorting algorithm other than it is predictable and used for
     print(j shr n) // 5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTAzMzIwMiwxMzQxNzc0OTI5LC0xNz
+eyJoaXN0b3J5IjpbMjAyMTU4Njg2MywxMzQxNzc0OTI5LC0xNz
 gxMjQ5MTgsNjc1MDQxMTQsMTc0NTAwOTA2Niw3NTQ5MjQ1NjQs
 MzQ5NDg4NTU1XX0=
 -->
